@@ -123,8 +123,8 @@ Cloud hosting configuration for the web dashboard with continuous deployment pip
 ## Challenges and Solutions
 
 ### Technical Challenges Faced
-- **Challenge 1:** [Describe specific technical challenge]
-  - **Solution:** [How you solved it]
+- **Challenge 1:** Stream Analytics outputing to the Cosmodb
+  - **Solution:** in the requirement there was mention of using the documentID, there was a confuse about the what was it used for. Entered {location}-{timestamp} in the field. so when starting the job analytics, it would out put the DB. it until the documents states that it's the key for the DB found the json.
 
 - **Challenge 2:** [Describe specific technical challenge]
   - **Solution:** [How you solved it]
