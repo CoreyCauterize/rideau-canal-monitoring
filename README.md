@@ -4,13 +4,13 @@ A comprehensive IoT monitoring system for the historic Rideau Canal, built using
 
 ## Student Information
 
-**Name:** [Your Name]  
-**Student ID:** [Your Student ID]  
+**Name:** Corey Mark-Stewart
+**Student ID:** 040770982  
 
 ### Repository Links
-- **Sensor Simulation:** [rideau-canal-sensor-simulation](../rideau-canal-sensor-simulation)
-- **Web Dashboard:** [rideau-canal-dashboard](../rideau-canal-dashboard)
-- **Main Documentation:** [rideau-canal-monitoring](../rideau-canal-monitoring) (this repository)
+- **Sensor Simulation:** [rideau-canal-sensor-simulation](https://github.com/CoreyCauterize/rideau-canal-sensor-simulation)
+- **Web Dashboard:** [rideau-canal-dashboard](https://github.com/CoreyCauterize/rideau-canal-dashboard)
+- **Main Documentation:** [rideau-canal-monitoring](https://github.com/CoreyCauterize/rideau-canal-monitoring) (this repository)
 
 ## Scenario Overview
 
@@ -70,7 +70,7 @@ Cold storage solution for raw sensor data archival and historical analysis.
 
 ### Web Dashboard
 Real-time visualization dashboard built with modern web technologies.
-- **Repository:** [rideau-canal-dashboard](../rideau-canal-dashboard)
+- **Repository:** [rideau-canal-dashboard](https://github.com/CoreyCauterize/rideau-canal-dashboard)
 - **Technology:** Node.js, HTML5, CSS3, JavaScript
 - **Features:** Real-time charts, historical data views, alert management
 
@@ -79,13 +79,12 @@ Cloud hosting configuration for the web dashboard with continuous deployment pip
 
 ## Repository Links
 
-- **Sensor Simulation Repository:** [rideau-canal-sensor-simulation](../rideau-canal-sensor-simulation)
-- **Web Dashboard Repository:** [rideau-canal-dashboard](../rideau-canal-dashboard)
-- **Live Dashboard Deployment:** [Dashboard URL - To be added after deployment]
+- **Sensor Simulation Repository:** [rideau-canal-sensor-simulation](https://github.com/CoreyCauterize/rideau-canal-sensor-simulation)
+- **Web Dashboard Repository:** [rideau-canal-dashboard](https://github.com/CoreyCauterize/rideau-canal-dashboard)
 
 ## Video Demonstration
 
-[Video demonstration will be embedded here or linked once recorded]
+[\[Video demonstration will be embedded here or linked once recorded\]](https://youtu.be/Wy4kWfBxX8c)
 
 ## Setup Instructions
 
@@ -158,5 +157,5 @@ Cloud hosting configuration for the web dashboard with continuous deployment pip
 
 ---
 
-**Project Status:** [In Development / Completed]  
-**Last Updated:** [Date]
+**Project Status:** [ Completed]  
+
