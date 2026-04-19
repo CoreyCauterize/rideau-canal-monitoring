@@ -136,10 +136,12 @@ Cloud hosting configuration for the web dashboard with continuous deployment pip
 ## AI Tools Disclosure (if used)
 
 ### Tools Used and How
-- **Tool Name:** [Specific AI tool if used]
-- **Purpose:** [What it was used for]
-- **AI-Generated Content:** [Specify what was AI-generated]
-- **Original Work:** [Specify what was your own implementation]
+- **Tool Name:** Github Copilot
+- **Purpose:** Doing templates, Racfatoring coode,as well as fixing errors that oocur when compliing and excute the code.
+
+- 
+- **Tool Name:** Chat-gpt
+- **Purpose:** For suggestions on artchitecure and steps and erros on azure services when configuring.
 
 ## References
 
